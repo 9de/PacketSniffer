@@ -21,11 +21,11 @@ This project is a packet logger for Minecraft Java Edition implemented in JavaSc
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/minecraft-packet-logger.git
+   git clone https://github.com/9de/PacketSniffer.git
    ```
 2. Navigate to the project directory:
    ```
-   cd minecraft-packet-logger
+   cd PacketSniffer 
    ```
 3. Install dependencies:
    ```
@@ -40,14 +40,6 @@ This project is a packet logger for Minecraft Java Edition implemented in JavaSc
    ```
 2. Connect your Minecraft client to a server.
 3. Packets exchanged between the client and server will be logged in real-time.
-
-## Customization
-
-You can customize packet handling by modifying the `handlePacket()` function in `packetLogger.js`.
-
-## Sample Output
-
-![Packet Logger Screenshot](https://example.com/packet_logger_screenshot.png)
 
 ## Contributing
 
